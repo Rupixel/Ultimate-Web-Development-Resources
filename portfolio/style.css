@@ -6,6 +6,7 @@
 }
 html {
 	font-size: 10px;
+	font-weight: bold;
 	font-family: 'Montserrat', sans-serif;
 	scroll-behavior: smooth;
 }
